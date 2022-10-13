@@ -1,6 +1,6 @@
 package com.example.monitoring.utils;
 
 public class Config {
-    public static  String BASEURL = "https://85c4-114-125-172-40.ap.ngrok.io/example/";
+    public static  String BASEURL = "https://b659-114-125-214-243.ap.ngrok.io/example/";
 
 }
